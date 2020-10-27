@@ -43,7 +43,7 @@ The template is available in the following URL: **[Access Template](https://gith
 Navigate to the created folder and open it in the Visual Studio Code, remember to execute the command `yarn` in your terminal in order to install all the dependencies, and you'll have something similar to that:
 
 <p align="center">
-  <img  src="./assets/nodejs-example.png">
+  <img  src="https://raw.githubusercontent.com/rocketseat-education/bootcamp-gostack-desafios/master/desafio-conceitos-nodejs/assets/nodejs-example.png">
 </p>
 
 ### Application Routes
@@ -76,7 +76,7 @@ Good studies <3
 
 In each test, you have a brief description of what your application must do in order for the test suits pass.
 
-If you have questions about what the tests are, and how to interpret them, take a look at **[our FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq- challenges).**
+If you have questions about what the tests are, and how to interpret them, take a look at **[our FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-challenges).**
 
 For this challenge we have the following tests:
 
